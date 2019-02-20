@@ -1,0 +1,11 @@
+DELETE BRANCH ESPECIFICADA
+git branch -d nomeBranch
+
+LISTA REPOSITÓRIOS REMOTOS
+git remote -v
+
+DEIXA O REPOSITÓRIO PARA ACESSO NA NUVEM
+git remote add origin linkRepositório
+
+CARREGA OS ARQUIVOS PARA O REPOSITÓRIO NA NUVEM
+git push origin nomeBranch
